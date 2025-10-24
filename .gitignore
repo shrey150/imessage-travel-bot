@@ -1,0 +1,13 @@
+.env
+__pycache__/
+chroma_db/
+travel_bot_state.json
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzz
+*.pywzz
+*tmp/
